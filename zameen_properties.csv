@@ -1,0 +1,76 @@
+Price,Location,Beds,Baths,Area,Price_Cleaned,Beds_Cleaned,Baths_Cleaned,Area_SqFt
+1.5 Crore,"Royal Orchard, Multan Public School Road",3.0,4.0,5 Marla,15000000.0,3,4,1361.25
+75 Lakh,"Zahra Villas, Bosan Road",5.0,6.0,5 Marla,,5,6,1361.25
+1.7 Crore,"Buch Executive Villas, Multan",4.0,5.0,5 Marla,17000000.0,4,5,1361.25
+1.7 Crore,"Buch Executive Villas, Multan",4.0,4.0,5 Marla,17000000.0,4,4,1361.25
+2.1 Crore,"Buch Executive Villas, Multan",5.0,6.0,6 Marla,21000000.0,5,6,1633.5
+11.5 Crore,"DHA Phase 6 - Block D, DHA Phase 6",5.0,6.0,1 Kanal,115000000.0,5,6,5445.0
+16.65 Crore,"DHA Phase 6 - Block K, DHA Phase 6",5.0,6.0,1 Kanal,166500000.0,5,6,5445.0
+11.5 Crore,"DHA Phase 7 - Block S, DHA Phase 7",5.0,6.0,1 Kanal,115000000.0,5,6,5445.0
+19.5 Crore,"DHA Phase 6 - Block L, DHA Phase 6",6.0,6.0,1 Kanal,195000000.0,6,6,5445.0
+21.5 Crore,"G-10/2, G-10",5.0,5.0,1.6 Kanal,215000000.0,5,5,8712.0
+8.25 Crore,"DHA Phase 6, DHA Defence",6.0,7.0,1 Kanal,82500000.0,6,7,5445.0
+6.8 Crore,"Royal Orchard, Multan Public School Road",7.0,6.0,1.1 Kanal,68000000.0,7,6,5989.500000000001
+7.5 Crore,"DHA Phase 7 - Block X, DHA Phase 7",5.0,6.0,1 Kanal,75000000.0,5,6,5445.0
+9.5 Crore,"DHA Phase 5 - Block G, DHA Phase 5",5.0,6.0,1 Kanal,95000000.0,5,6,5445.0
+9.8 Crore,"Bahria Town Phase 4, Bahria Town Rawalpindi",6.0,6.0,1 Kanal,98000000.0,6,6,5445.0
+8 Crore,"Garden Town - Aurangzaib Block, Garden Town",5.0,5.0,1 Kanal,80000000.0,5,5,5445.0
+36 Crore,"Model Town, Lahore",4.0,4.0,4 Kanal,360000000.0,4,4,21780.0
+6.55 Crore,"DHA Phase 7 - Block Y, DHA Phase 7",5.0,6.0,1 Kanal,65500000.0,5,6,5445.0
+6.75 Crore,"DHA Phase 7 - Block U, DHA Phase 7",5.0,6.0,1 Kanal,67500000.0,5,6,5445.0
+1.1 Crore,"Northern Bypass, Multan",4.0,5.0,5.5 Marla,11000000.0,4,5,1497.375
+5.5 Crore,"Gulistan-e-Jauhar - Block 7, Gulistan-e-Jauhar",,,10.6 Marla,55000000.0,,,2885.85
+5.3 Crore,"Bahria Town Phase 2, Bahria Town Rawalpindi",5.0,6.0,10 Marla,53000000.0,5,6,2722.5
+22.75 Crore,"Bahria Town Phase 7, Bahria Town Rawalpindi",5.0,6.0,1.2 Kanal,227500000.0,5,6,6534.0
+3 Crore,"Malir Link To Super Highway, Karachi",3.0,3.0,4.8 Marla,30000000.0,3,3,1306.8
+8.5 Crore,"Muslim Town, Lahore",5.0,5.0,1 Kanal,85000000.0,5,5,5445.0
+2 Crore,"Nasheman Colony, Multan",4.0,5.0,7 Marla,20000000.0,4,5,1905.75
+1.75 Crore,"Gulgasht Colony, Multan",4.0,5.0,5 Marla,17500000.0,4,5,1361.25
+1.25 Crore,"Multan Public School Road, Multan",4.0,5.0,5 Marla,12500000.0,4,5,1361.25
+1.85 Crore,"Royal Orchard, Multan Public School Road",5.0,6.0,7 Marla,18500000.0,5,6,1905.75
+6.5 Crore,"Wapda Town Phase 2, Wapda Town",6.0,6.0,1 Kanal,65000000.0,6,6,5445.0
+9.5 Crore,"Bani Gala, Islamabad",6.0,6.0,1.3 Kanal,95000000.0,6,6,7078.5
+4.85 Crore,"Bani Gala, Islamabad",6.0,6.0,11 Marla,48500000.0,6,6,2994.75
+4.9 Crore,"Paragon City - Woods Block, Paragon City",4.0,4.0,10 Marla,49000000.0,4,4,2722.5
+1.9 Crore,"Citi Housing Society, Gujranwala",4.0,4.0,5 Marla,19000000.0,4,4,1361.25
+4.35 Crore,"River Garden Housing Scheme, GT Road",6.0,6.0,10 Marla,43500000.0,6,6,2722.5
+3.7 Crore,"Royal Orchard, Multan Public School Road",6.0,6.0,10 Marla,37000000.0,6,6,2722.5
+3.4 Crore,"Multan Public School Road, Multan",5.0,6.0,10 Marla,34000000.0,5,6,2722.5
+3.6 Crore,"Citi Housing Society, Gujranwala",6.0,6.0,10 Marla,36000000.0,6,6,2722.5
+18 Crore,"F-10, Islamabad",5.0,6.0,1.1 Kanal,180000000.0,5,6,5989.500000000001
+6.9 Crore,"Bahria Town Phase 8 - Block A, Bahria Town Phase 8",5.0,6.0,1 Kanal,69000000.0,5,6,5445.0
+9.5 Crore,"Bani Gala, Islamabad",6.0,6.0,1.3 Kanal,95000000.0,6,6,7078.5
+4.9 Crore,"DHA Phase 7, DHA Defence",4.0,4.0,10 Marla,49000000.0,4,4,2722.5
+30 Crore,"Model Town, Lahore",5.0,5.0,3 Kanal,300000000.0,5,5,16335.0
+6.99 Crore,"DHA Phase 7, DHA Defence",5.0,6.0,1 Kanal,69900000.0,5,6,5445.0
+8.75 Crore,"DHA Phase 6, DHA Defence",5.0,6.0,1 Kanal,87500000.0,5,6,5445.0
+7.65 Crore,"DHA Phase 7, DHA Defence",6.0,6.0,1 Kanal,76500000.0,6,6,5445.0
+7.75 Crore,"DHA Phase 6, DHA Defence",5.0,6.0,1 Kanal,77500000.0,5,6,5445.0
+4 Crore,"Faisal Town, Lahore",5.0,5.0,10 Marla,40000000.0,5,5,2722.5
+14.75 Crore,"DHA Phase 6, DHA Defence",7.0,6.0,2 Kanal,147500000.0,7,6,10890.0
+11.99 Crore,"DHA Phase 7, DHA Defence",7.0,6.0,2 Kanal,119900000.0,7,6,10890.0
+3.9 Crore,"DHA Phase 7, DHA Defence",4.0,5.0,10 Marla,39000000.0,4,5,2722.5
+5.1 Crore,"DHA Phase 1 - Sector M, DHA Phase 1",5.0,6.0,1 Kanal,51000000.0,5,6,5445.0
+3.9 Crore,"DHA Phase 1, DHA Defence",5.0,6.0,1 Kanal,39000000.0,5,6,5445.0
+2.08 Crore,"DHA 9 Town, DHA Defence",3.0,4.0,5 Marla,20800000.0,3,4,1361.25
+7.8 Crore,"DHA Phase 6 - Block K, DHA Phase 6",5.0,6.0,1 Kanal,78000000.0,5,6,5445.0
+4.35 Crore,"River Garden Housing Scheme, GT Road",6.0,6.0,10 Marla,43500000.0,6,6,2722.5
+7 Crore,"DHA Phase 7, DHA Defence",5.0,6.0,1 Kanal,70000000.0,5,6,5445.0
+1.12 Crore,"Park View City, Lahore",3.0,4.0,3.5 Marla,11200000.000000002,3,4,952.875
+1.6 Crore,"Park View City, Lahore",4.0,5.0,5 Marla,16000000.0,4,5,1361.25
+6.95 Crore,"DHA Phase 7, DHA Defence",5.0,6.0,1 Kanal,69500000.0,5,6,5445.0
+1.1 Crore,"Shalimar Colony, Multan",3.0,6.0,4 Marla,11000000.0,3,6,1089.0
+3.5 Crore,"Royal Orchard - Block C, Royal Orchard",6.0,6.0,10 Marla,35000000.0,6,6,2722.5
+7.18 Crore,"DHA Phase 6, DHA Defence",4.0,5.0,10 Marla,71800000.0,4,5,2722.5
+44 Crore,"DHA Phase 6, DHA Defence",7.0,6.0,2 Kanal,440000000.0,7,6,10890.0
+36 Crore,"DHA Phase 6 - Block E, DHA Phase 6",5.0,6.0,2 Kanal,360000000.0,5,6,10890.0
+1.95 Crore,"Canal Garden - Block A, Canal Garden",4.0,4.0,6 Marla,19500000.0,4,4,1633.5
+1.85 Crore,"Paragon City - Executive Block, Paragon City",3.0,4.0,5 Marla,18500000.0,3,4,1361.25
+1.7 Crore,"Paragon City, Lahore",3.0,4.0,5 Marla,17000000.0,3,4,1361.25
+3.7 Crore,"Citi Housing Society, Gujranwala",6.0,6.0,10 Marla,37000000.0,6,6,2722.5
+2.85 Crore,"Satellite Town, Gujranwala",5.0,4.0,10.9 Marla,28500000.0,5,4,2967.525
+1.95 Crore,"Citi Housing Society, Gujranwala",4.0,5.0,5 Marla,19500000.0,4,5,1361.25
+1.94 Crore,"Citi Housing Society, Gujranwala",4.0,5.0,5 Marla,19400000.0,4,5,1361.25
+2.35 Crore,"Citi Housing Society, Gujranwala",4.0,5.0,5 Marla,23500000.0,4,5,1361.25
+2.15 Crore,"Citi Housing Society, Gujranwala",4.0,5.0,5 Marla,21500000.0,4,5,1361.25
+5.95 Crore,"Citi Housing - Phase 1, Citi Housing Society",6.0,6.0,12 Marla,59500000.0,6,6,3267.0
