@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.so
+*.egg-info/
+.Python
+
+# Virtual environment
+venv/
+.venv/
+
+# Scraped data
+zameen_properties.csv
+
+# Processed data
+X_train.csv
+X_test.csv
+y_train.csv
+y_test.csv
+
+# Generated plots
+*.png
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+thumbs.db
+
+# Logs
+*.log
